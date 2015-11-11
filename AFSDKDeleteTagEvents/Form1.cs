@@ -7,10 +7,8 @@ using OSIsoft.AF.Time;
 using OSIsoft.AF.Asset;
 using OSIsoft.AF.Data;
 using OSIsoft.AF.PI;
-using System.Threading;
-using System.Threading.Tasks;
 
-namespace PIWebAPIPractice1
+namespace DeleteTagEvents
 {
 
     public partial class DeletePITagEvents : Form
@@ -19,11 +17,7 @@ namespace PIWebAPIPractice1
         public PISystem myAFServer;
         public AFElement myElement;
         public PIServer myPIServer;
-        public AFElementTemplates myElementTemplates;
-        public AFElementTemplate myElementTemplate;
-        public int updateval = 0;
-        public int updateval2 = 0;
-        public int monitval = 0;
+
         public DeletePITagEvents()
         {
             InitializeComponent();
