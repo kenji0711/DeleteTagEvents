@@ -1,0 +1,14 @@
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\AFSDKDeleteTagEvents.exe.config
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\AFSDKDeleteTagEvents.exe
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\AFSDKDeleteTagEvents.pdb
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\ADODB.dll
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\AFSDKDeleteTagEvents.csprojResolveAssemblyReference.cache
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\DeleteTagEvents.DeletePITagEvents.resources
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\AFSDKDeleteTagEvents.Properties.Resources.resources
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\AFSDKDeleteTagEvents.csproj.GenerateResource.Cache
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\AFSDKDeleteTagEvents.exe
+C:\Users\jlefebvre\Documents\GitHub\DeleteTagEvents\AFSDKDeleteTagEvents\obj\Debug\AFSDKDeleteTagEvents.pdb
