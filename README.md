@@ -1,17 +1,18 @@
-# PI-Connector-for-UFL-Samples
+# DeleteTagEvents
 
-These samples show how to get started with the PI Connector for UFL and in particular with how to use the connector's REST endpoint feature.
+This sample show how to Delete tag events by AFSDK
 
 ## Contents
 
-* Python samples to create data files and "PUT" it to the UFL REST endpoint, which can be find in the Python directory.
-* Generic sample ini files can be found in the INI directory.
-* A example of a processing and XML file used in a SOAP request is in the SOAP directory, also an example of using Powershell to send data to the UFL rest endpoint.
+* Form application that can delete events. You can specify followings.
+PI Tags
+All Events/ Specific Events (Manual entery of value)
+Start Time/End Time
 
 ## Getting Started
 
-You will need a development/test PI System and the PI Connector for UFL (the samples were tested with version 1.0.0.41).
-The UFL connector will automatically create tags and elements, thus care must be taken when using these examples against a production system.
+Run the exe
+Machine need to have .net 4.5 or later and AFClient 2.6 or later
 
 ## Licensing
 
@@ -30,4 +31,3 @@ Copyright 2016 OSIsoft, LLC.
    limitations under the License.
    
 Please see the file named [LICENSE.md](LICENSE.md).
-
