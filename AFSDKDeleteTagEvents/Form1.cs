@@ -32,6 +32,7 @@ namespace DeleteTagEvents
         {
             try 
             {
+                myPIServer = (PIServer)piServerPicker1.AFSelection;
                 List<PIPoint> ptlist = AFOperations.FindPIPoints(this, myPIServer.Name, "", true, false);
                 if (ptlist != null)
                 {
